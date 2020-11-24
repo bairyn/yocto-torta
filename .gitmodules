@@ -18,3 +18,7 @@
 	path = sources/bitbake
 	url = git://github.com/openembedded/bitbake
 	branch = master
+[submodule "sources/meta-torta"]
+	path = sources/meta-torta
+	url = git@github.com:bairyn/meta-torta
+	branch = main
