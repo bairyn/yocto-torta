@@ -14,3 +14,7 @@
 	path = sources/meta-tegra
 	url = git://github.com/OE4T/meta-tegra
 	branch = dunfell-l4t-r32.4.3
+[submodule "sources/bitbake"]
+	path = sources/bitbake
+	url = git://github.com/openembedded/bitbake
+	branch = master
