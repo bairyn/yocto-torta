@@ -26,3 +26,7 @@
 	path = sources/meta-uav
 	url = git://github.com/koenkooi/meta-uav
 	branch = master
+[submodule "sources/meta-python2"]
+	path = sources/meta-python2
+	url = git://git.openembedded.org/meta-python2
+	branch = dunfell
