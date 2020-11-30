@@ -22,3 +22,7 @@
 	path = sources/meta-torta
 	url = git@github.com:bairyn/meta-torta
 	branch = main
+[submodule "sources/meta-uav"]
+	path = sources/meta-uav
+	url = git://github.com/koenkooi/meta-uav
+	branch = master
