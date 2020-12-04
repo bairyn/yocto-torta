@@ -1,19 +1,19 @@
 [submodule "sources/meta-openembedded"]
 	path = sources/meta-openembedded
 	url = git://github.com/openembedded/meta-openembedded
-	branch = dunfell
+	branch = gatesgarth
 [submodule "sources/poky"]
 	path = sources/poky
 	url = git://git.yoctoproject.org/poky
-	branch = dunfell
+	branch = gatesgarth
 [submodule "sources/openembedded-core"]
 	path = sources/openembedded-core
 	url = git://github.com/openembedded/openembedded-core
-	branch = dunfell
+	branch = gatesgarth
 [submodule "sources/meta-tegra"]
 	path = sources/meta-tegra
 	url = git://github.com/OE4T/meta-tegra
-	branch = dunfell-l4t-r32.4.3
+	branch = gatesgarth
 [submodule "sources/bitbake"]
 	path = sources/bitbake
 	url = git://github.com/openembedded/bitbake
@@ -29,7 +29,7 @@
 [submodule "sources/meta-python2"]
 	path = sources/meta-python2
 	url = git://git.openembedded.org/meta-python2
-	branch = dunfell
+	branch = gatesgarth
 [submodule "sources/meta-qt4"]
 	path = sources/meta-qt4
 	url = git://git.yoctoproject.org/meta-qt4
@@ -37,4 +37,4 @@
 [submodule "sources/meta-qt5"]
 	path = sources/meta-qt5
 	url = git://github.com/meta-qt5/meta-qt5
-	branch = dunfell
+	branch = gatesgarth
